@@ -1,0 +1,2 @@
+'use strict';
+module.exports=(req,res)=>{res.setHeader('Cache-Control','no-store');if(req.method!=='GET')return res.status(405).json({error:'Method not allowed'});const url=process.env.NEXT_PUBLIC_SUPABASE_URL||'',publishableKey=process.env.NEXT_PUBLIC_SUPABASE_PUBLISHABLE_KEY||'';if(!url||!publishableKey)return res.status(503).json({error:'Supabase public configuration is not set in Vercel'});return res.status(200).json({url,publishableKey})};
