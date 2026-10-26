@@ -1,0 +1,38 @@
+[
+  {
+    "original": "image(20261026-044326).png",
+    "included": "japan-food.png",
+    "sha256": "3cbd635dee6aa91554547605c80096551eb2e88ad89e76a43c729ee6d7103110",
+    "identical": true
+  },
+  {
+    "original": "image(20261026-044329).png",
+    "included": "japan-festival.png",
+    "sha256": "b29463ca00e3e1a4413b252ae077de59a5dff03d3e3b20d5e41a9ddb47d21da6",
+    "identical": true
+  },
+  {
+    "original": "image(20261026-044335).png",
+    "included": "japan-furin.png",
+    "sha256": "851c67fb0d0a9612f9a75f678995562fbee946c3e6a8f938a9ce037bf3efbc17",
+    "identical": true
+  },
+  {
+    "original": "image(20261026-044342).png",
+    "included": "japan-kendama.png",
+    "sha256": "aea068bd995833cb29e3936d67bad5b95ed30db6d860b1bc52fa0141cd700790",
+    "identical": true
+  },
+  {
+    "original": "image(20261026-044349).png",
+    "included": "japan-kintsugi.png",
+    "sha256": "3e5a89c0c005a1175cca4f0aaff688d8b79a385fcd7436455b093b42e382eef3",
+    "identical": true
+  },
+  {
+    "original": "image(20261026-044355).png",
+    "included": "japan-pottery.png",
+    "sha256": "28f27488cb960313eb5d6c519c12d58cef3da783c4bf72bf04b6130a943a04b6",
+    "identical": true
+  }
+]
